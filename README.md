@@ -55,8 +55,6 @@ I'm a cloud-focused engineer with 5+ years of experience supporting and building
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=henryanonyei&theme=tokyonight&hide_border=true)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=henryanonyei&theme=tokyonight&no-frame=true&row=1)
-
 ---
 
 ## 🌱 Currently Learning
