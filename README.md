@@ -42,6 +42,7 @@ I'm a cloud-focused engineer with 5+ years of experience supporting and building
 
 | Project | Description | Tech |
 |---|---|---|
+| azure-monitoring-alerting | Production-style Azure monitoring implementation with Log Analytics Workspace, VM diagnostics, CPU threshold alerts, and automated email notifications deployed using Terraform | Terraform, Azure Monitor, Log Analytics, IaC |
 | [terraform-azure-vm-lab](https://github.com/henryanonyei/terraform-azure-vm-lab) | End-to-end Azure VM provisioning using Terraform IaC | Terraform, Azure, HCL |
 | [azure-infrastructure-lab](https://github.com/henryanonyei/azure-infrastructure-lab) | Azure infrastructure design and deployment | Azure, ARM |
 | [PowerShell-AD-Automation](https://github.com/henryanonyei/PowerShell-AD-Automation) | Active Directory user and group automation scripts | PowerShell, AD |
